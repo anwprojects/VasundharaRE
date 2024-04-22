@@ -1,5 +1,7 @@
 body, html {
-    background: #EEEEF4;
+    /* background: #EEEEF4; */
+    background: #211e1f;
+    color: #b3853c;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -13,28 +15,37 @@ body, html {
     top: 13%;
     width: 100%;
   }
+
+  img {
+    margin: 0px;
+    padding: 0px;
+  }
   
   h1 {
-    color: #E43;
+    /* color: #b3853c; */
+    margin: 0px;
+    padding: 0px;
     font-weight: 100;
     font-size: 3em;
   }
   
   h2 {
-    color: #333333;
+    /* color: #333333; */
     font-weight: 300;
     font-size: 1.5em;
   }
   
   a {
     font-weight: 300;
-    color: #E43;
+    /* color: #E43; */
+    color: #fff;
     text-decoration: none;
     font-size: 1.5em;
   }
   
   span {
-    color: #E43;
+    /* color: #E43; */
+    color: #fff;
     font-size: .8em;
     font-weight: 700;
   }
